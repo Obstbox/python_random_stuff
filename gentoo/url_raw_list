@@ -1,0 +1,128 @@
+
+These are the packages that would be fetched, in order:
+
+Calculating dependencies  .. ... done!
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/d8/lxqt-build-tools-0.11.0.tar.xz https://github.com/lxqt/lxqt-build-tools/releases/download/0.11.0/lxqt-build-tools-0.11.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/d5/extra-cmake-modules-5.96.0.tar.xz ftp://mirrors.dotsrc.org/kde/stable/frameworks/5.96/extra-cmake-modules-5.96.0.tar.xz https://download.kde.org/stable/frameworks/5.96/extra-cmake-modules-5.96.0.tar.xz http://kde.mirror.anlx.net/stable/frameworks/5.96/extra-cmake-modules-5.96.0.tar.xz https://mirror.csclub.uwaterloo.ca/kde/stable/frameworks/5.96/extra-cmake-modules-5.96.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/9c/libdbusmenu-qt_0.9.3+16.04.20160218.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/libdbusmenu-qt_0.9.3+16.04.20160218.orig.tar.gz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/85/libutempter-1.2.1.tar.gz ftp://ftp.altlinux.org/pub/people/ldv/libutempter/libutempter-1.2.1.tar.gz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/9f/luit-20220111.tgz https://invisible-mirror.net/archives/luit/luit-20220111.tgz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/8d/muParser-2.3.3.tar.gz https://github.com/beltoforion/muparser/archive/refs/tags/v2.3.3-1.tar.gz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/f7/libqtxdg-3.9.1.tar.xz https://github.com/lxqt/libqtxdg/releases/download/3.9.1/libqtxdg-3.9.1.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/c0/kwindowsystem-5.96.0.tar.xz https://download.kde.org/stable/frameworks/5.96/kwindowsystem-5.96.0.tar.xz ftp://mirrors.dotsrc.org/kde/stable/frameworks/5.96/kwindowsystem-5.96.0.tar.xz http://kde.mirror.anlx.net/stable/frameworks/5.96/kwindowsystem-5.96.0.tar.xz https://mirror.csclub.uwaterloo.ca/kde/stable/frameworks/5.96/kwindowsystem-5.96.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/0d/wayland-1.21.0.tar.xz https://gitlab.freedesktop.org/wayland/wayland/-/releases/1.21.0/downloads/wayland-1.21.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/50/oxygen-icons5-5.96.0.tar.xz ftp://mirrors.dotsrc.org/kde/stable/frameworks/5.96/oxygen-icons5-5.96.0.tar.xz https://mirror.csclub.uwaterloo.ca/kde/stable/frameworks/5.96/oxygen-icons5-5.96.0.tar.xz http://kde.mirror.anlx.net/stable/frameworks/5.96/oxygen-icons5-5.96.0.tar.xz https://download.kde.org/stable/frameworks/5.96/oxygen-icons5-5.96.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/13/lxmenu-data-0.1.5.tar.xz https://downloads.sourceforge.net/lxde/lxmenu-data-0.1.5.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/35/openbox-3.6.1.tar.gz http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/53/surreal-gentoo.tar.gz https://dev.gentoo.org/~hwoarang/distfiles/surreal-gentoo.tar.gz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/97/qttranslations-everywhere-opensource-src-5.15.5.tar.xz https://download.qt.io/official_releases/qt/5.15/5.15.5/submodules/qttranslations-everywhere-opensource-src-5.15.5.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/0b/qttranslations-5.15.5-gentoo-kde-1.tar.xz https://dev.gentoo.org/~asturm/distfiles/qttranslations-5.15.5-gentoo-kde-1.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/cc/polkit-qt-1-0.114.0.tar.xz ftp://mirrors.dotsrc.org/kde/stable/polkit-qt-1/polkit-qt-1-0.114.0.tar.xz https://download.kde.org/stable/polkit-qt-1/polkit-qt-1-0.114.0.tar.xz https://mirror.csclub.uwaterloo.ca/kde/stable/polkit-qt-1/polkit-qt-1-0.114.0.tar.xz http://kde.mirror.anlx.net/stable/polkit-qt-1/polkit-qt-1-0.114.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/a7/qtbase-everywhere-opensource-src-5.15.5.tar.xz https://download.qt.io/official_releases/qt/5.15/5.15.5/submodules/qtbase-everywhere-opensource-src-5.15.5.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/db/qtbase-5.15-gentoo-patchset-1.tar.xz https://dev.gentoo.org/~asturm/distfiles/qtbase-5.15-gentoo-patchset-1.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/04/qtbase-5.15.5-gentoo-kde-2.tar.xz https://dev.gentoo.org/~asturm/distfiles/qtbase-5.15.5-gentoo-kde-2.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/25/plasma-wayland-protocols-1.7.0.tar.xz https://mirror.csclub.uwaterloo.ca/kde/stable/plasma-wayland-protocols/plasma-wayland-protocols-1.7.0.tar.xz ftp://mirrors.dotsrc.org/kde/stable/plasma-wayland-protocols/plasma-wayland-protocols-1.7.0.tar.xz http://kde.mirror.anlx.net/stable/plasma-wayland-protocols/plasma-wayland-protocols-1.7.0.tar.xz https://download.kde.org/stable/plasma-wayland-protocols/plasma-wayland-protocols-1.7.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/06/qtwayland-everywhere-opensource-src-5.15.5.tar.xz https://download.qt.io/official_releases/qt/5.15/5.15.5/submodules/qtwayland-everywhere-opensource-src-5.15.5.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/0c/lxqt-themes-1.1.0.tar.xz https://github.com/lxqt/lxqt-themes/releases/download/1.1.0/lxqt-themes-1.1.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/2a/libfm-1.3.2.tar.gz https://github.com/lxde/libfm/archive/1.3.2.tar.gz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/a7/qtbase-everywhere-opensource-src-5.15.5.tar.xz https://download.qt.io/official_releases/qt/5.15/5.15.5/submodules/qtbase-everywhere-opensource-src-5.15.5.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/db/qtbase-5.15-gentoo-patchset-1.tar.xz https://dev.gentoo.org/~asturm/distfiles/qtbase-5.15-gentoo-patchset-1.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/4c/qtbase-5.15.5-gentoo-kde-1.tar.xz https://dev.gentoo.org/~asturm/distfiles/qtbase-5.15.5-gentoo-kde-1.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/d2/json-glib-1.6.6.tar.xz https://download.gnome.org/sources/json-glib/1.6/json-glib-1.6.6.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/b5/fuse-3.10.4.tar.xz https://github.com/libfuse/libfuse/releases/download/fuse-3.10.4/fuse-3.10.4.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/b5/xmessage-1.0.6.tar.xz https://www.x.org/releases/individual/app/xmessage-1.0.6.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/07/font-alias-1.0.4.tar.bz2 https://www.x.org/releases/individual/font/font-alias-1.0.4.tar.bz2 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/bb/bdftopcf-1.1.tar.bz2 https://www.x.org/releases/individual/app/bdftopcf-1.1.tar.bz2 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/80/liblxqt-1.1.0.tar.xz https://github.com/lxqt/liblxqt/releases/download/1.1.0/liblxqt-1.1.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/5f/qtdeclarative-everywhere-opensource-src-5.15.5.tar.xz https://download.qt.io/official_releases/qt/5.15/5.15.5/submodules/qtdeclarative-everywhere-opensource-src-5.15.5.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/4e/qtdeclarative-5.15.5-gentoo-kde-1.tar.xz https://dev.gentoo.org/~asturm/distfiles/qtdeclarative-5.15.5-gentoo-kde-1.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/0d/wayland-1.21.0.tar.xz https://gitlab.freedesktop.org/wayland/wayland/-/releases/1.21.0/downloads/wayland-1.21.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/61/menu-cache-1.1.0.tar.xz https://downloads.sourceforge.net/lxde/menu-cache-1.1.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/2a/obconf-qt-0.16.2.tar.xz https://github.com/lxqt/obconf-qt/releases/download/0.16.2/obconf-qt-0.16.2.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/10/fuse-3.11.0.tar.xz https://github.com/libfuse/libfuse/releases/download/fuse-3.11.0/fuse-3.11.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/e7/font-misc-misc-1.1.2.tar.bz2 https://www.x.org/releases/individual/font/font-misc-misc-1.1.2.tar.bz2 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/eb/qtxdg-tools-3.9.1.tar.xz https://github.com/lxqt/qtxdg-tools/releases/download/3.9.1/qtxdg-tools-3.9.1.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/54/kcoreaddons-5.96.0.tar.xz http://kde.mirror.anlx.net/stable/frameworks/5.96/kcoreaddons-5.96.0.tar.xz https://mirror.csclub.uwaterloo.ca/kde/stable/frameworks/5.96/kcoreaddons-5.96.0.tar.xz ftp://mirrors.dotsrc.org/kde/stable/frameworks/5.96/kcoreaddons-5.96.0.tar.xz https://download.kde.org/stable/frameworks/5.96/kcoreaddons-5.96.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/a9/wayland-protocols-1.26.tar.xz https://wayland.freedesktop.org/releases/wayland-protocols-1.26.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/45/lxqt-globalkeys-1.1.0.tar.xz https://github.com/lxqt/lxqt-globalkeys/releases/download/1.1.0/lxqt-globalkeys-1.1.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/d6/libfm-qt-1.1.0.tar.xz https://github.com/lxqt/libfm-qt/releases/download/1.1.0/libfm-qt-1.1.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/ce/lxqt-notificationd-1.1.0.tar.xz https://github.com/lxqt/lxqt-notificationd/releases/download/1.1.0/lxqt-notificationd-1.1.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/2c/lxqt-session-1.1.1.tar.xz https://github.com/lxqt/lxqt-session/releases/download/1.1.1/lxqt-session-1.1.1.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/34/xterm-372.tgz ftp://ftp.invisible-island.net/xterm/xterm-372.tgz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/2c/lxqt-about-1.1.0.tar.xz https://github.com/lxqt/lxqt-about/releases/download/1.1.0/lxqt-about-1.1.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/08/sddm-0.18.1.tar.xz https://github.com/sddm/sddm/releases/download/v0.18.1/sddm-0.18.1.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/57/lxqt-policykit-1.1.0.tar.xz https://github.com/lxqt/lxqt-policykit/releases/download/1.1.0/lxqt-policykit-1.1.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/24/xdg-desktop-portal-1.14.6.tar.xz https://github.com/flatpak/xdg-desktop-portal/releases/download/1.14.6/xdg-desktop-portal-1.14.6.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/7a/solid-5.96.0.tar.xz https://download.kde.org/stable/frameworks/5.96/solid-5.96.0.tar.xz http://kde.mirror.anlx.net/stable/frameworks/5.96/solid-5.96.0.tar.xz https://mirror.csclub.uwaterloo.ca/kde/stable/frameworks/5.96/solid-5.96.0.tar.xz ftp://mirrors.dotsrc.org/kde/stable/frameworks/5.96/solid-5.96.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/06/qtwayland-everywhere-opensource-src-5.15.5.tar.xz https://download.qt.io/official_releases/qt/5.15/5.15.5/submodules/qtwayland-everywhere-opensource-src-5.15.5.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/12/qtwayland-5.15.5-gentoo-kde-2.tar.xz https://dev.gentoo.org/~asturm/distfiles/qtwayland-5.15.5-gentoo-kde-2.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/2b/lxqt-panel-1.1.0.tar.xz https://github.com/lxqt/lxqt-panel/releases/download/1.1.0/lxqt-panel-1.1.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/f8/lxqt-qtplugin-1.1.0.tar.xz https://github.com/lxqt/lxqt-qtplugin/releases/download/1.1.0/lxqt-qtplugin-1.1.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/74/lxqt-runner-1.1.0.tar.xz https://github.com/lxqt/lxqt-runner/releases/download/1.1.0/lxqt-runner-1.1.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/d6/xdg-desktop-portal-lxqt-0.2.0.tar.xz https://github.com/lxqt/xdg-desktop-portal-lxqt/releases/download/0.2.0/xdg-desktop-portal-lxqt-0.2.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/8a/pcmanfm-qt-1.1.0.tar.xz https://github.com/lxqt/pcmanfm-qt/releases/download/1.1.0/pcmanfm-qt-1.1.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/20/kwayland-5.96.0.tar.xz https://download.kde.org/stable/frameworks/5.96/kwayland-5.96.0.tar.xz ftp://mirrors.dotsrc.org/kde/stable/frameworks/5.96/kwayland-5.96.0.tar.xz http://kde.mirror.anlx.net/stable/frameworks/5.96/kwayland-5.96.0.tar.xz https://mirror.csclub.uwaterloo.ca/kde/stable/frameworks/5.96/kwayland-5.96.0.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/5e/libkscreen-5.25.5.tar.xz https://mirror.csclub.uwaterloo.ca/kde/stable/plasma/5.25.5/libkscreen-5.25.5.tar.xz https://download.kde.org/stable/plasma/5.25.5/libkscreen-5.25.5.tar.xz http://kde.mirror.anlx.net/stable/plasma/5.25.5/libkscreen-5.25.5.tar.xz ftp://mirrors.dotsrc.org/kde/stable/plasma/5.25.5/libkscreen-5.25.5.tar.xz 
+
+rsync://gentoo.bloodhost.ru/gentoo-distfiles/distfiles/84/lxqt-config-1.1.0.tar.xz https://github.com/lxqt/lxqt-config/releases/download/1.1.0/lxqt-config-1.1.0.tar.xz 
